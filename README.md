@@ -8,7 +8,7 @@
 ## Technology stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=React_Router&logoColor=CA4245)
+![React Router](https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=React-Router&logoColor=CA4245)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor=764ABC)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Axios](https://img.shields.io/badge/Axios-090909?style=for-the-badge&logo=Axios&logoColor=5A29E4)
